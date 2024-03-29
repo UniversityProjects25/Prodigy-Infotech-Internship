@@ -28,10 +28,7 @@ public class Task_1_Temperature_conversion {
             tout = (float)(((t - 32)*5)/9);
             System.out.println("Temperature is : " + tout + "°K" );
         }
-
-
-
-
-
     }
 }
+
+
