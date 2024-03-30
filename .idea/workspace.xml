@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e6b5e9e-e9af-4caf-854a-e1f5c1e124c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Task_3_Contact_Management_System.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_3_ATM_Interface.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +37,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "J:/pdpu/DSA/Internship Projects/Codsoft Tech Internhsip",
+    "last_opened_file_path": "J:/pdpu/DSA/Internship Projects/Prodigy Infotech Internship",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task_3_ATM_Interface">
+  <component name="RunManager" selected="Application.Task_3_Contact_Management_System (1)">
     <configuration name="Task_1_Temperature_conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task_1_Temperature_conversion" />
       <module name="Prodigy Infotech Internship" />
@@ -63,8 +63,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_4" />
+    <configuration name="Task_3_Contact_Management_System (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_3_Contact_Management_System" />
+      <module name="Prodigy Infotech Internship" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_3_Contact_Management_System" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_3_Contact_Management_System" />
       <module name="Prodigy Infotech Internship" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,10 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_3_Contact_Management_System (1)" />
+        <item itemvalue="Application.Task_3_Contact_Management_System" />
         <item itemvalue="Application.Task_3_ATM_Interface" />
         <item itemvalue="Application.Task_2_Guessing_game" />
         <item itemvalue="Application.Task_1_Temperature_conversion" />
-        <item itemvalue="Application.Task_4" />
       </list>
     </recent_temporary>
   </component>
